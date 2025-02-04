@@ -1,4 +1,4 @@
-# Challenger II.1 / 2 - Detecção de Phishing por Padrões de E-mail
+# Challenge II.1 / 2 - Detecção de Phishing por Padrões de E-mail
 
 # Solução Padrão
 
