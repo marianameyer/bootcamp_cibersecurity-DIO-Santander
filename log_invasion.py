@@ -1,5 +1,4 @@
-
-# Challenger II.2 / 2 - Detecção de Tentativas de Invasão em Logs
+# Challenge II.2 / 2 - Detecção de Tentativas de Invasão em Logs
 
 # Função para detectar tentativas de invasão em registros de log
 def detectar_invasao(registros):
